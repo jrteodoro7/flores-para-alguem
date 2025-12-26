@@ -1,28 +1,23 @@
-💐Resource flowers gift website for someone
+💐Site de presentes de flores para alguém especial
 
-# Flowers for Someone 🌸
+Flores para Alguém 🌸
+Bem-vindo(a) ao Flores para Alguém! 🌼 Este repositório hospeda o código-fonte de um site encantador dedicado à arte de presentear com flores as pessoas que você ama. Expresse seus sentimentos com a beleza da natureza!
 
-Welcome to Flowers for Someone! 🌼 This repository hosts the codebase for a charming website dedicated to the art of gifting flowers to your loved ones. Express your sentiments with the beauty of nature!
+Sumário
+Introdução
+Tecnologias Utilizadas
+Instalação
+Introdução
+Flores para Alguém é o seu destino ideal para presentes florais sinceros. Seja para uma ocasião especial ou apenas para alegrar o dia de alguém, nosso site oferece uma seleção encantadora de arranjos de flores, buquês e mensagens personalizadas.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
+Tecnologias Utilizadas
+Este projeto utiliza as seguintes linguagens de programação e tecnologias:
 
-## Introduction
+HTML
+CSS
+SCSS (Sass)
+JavaScript
+Instalação
+Para executar este projeto localmente, siga estes passos:
 
-Flowers for Someone is your ultimate destination for heartfelt floral gifting. Whether it's a special occasion or just to brighten someone's day, our website offers a delightful of flower arrangements, bouquets, and personalized messages.
-
-## Technologies Used
-
-This project utilizes the following programming languages and technologies:
-- HTML
-- CSS
-- SCSS (Sass)
-- JavaScript
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone this repository to your local machine:
+Clone este repositório para sua máquina local:
