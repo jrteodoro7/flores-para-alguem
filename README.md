@@ -3,7 +3,8 @@
 Flores para Alguém 🌸
 Bem-vindo(a) ao Flores para Alguém! 🌼 Este repositório hospeda o código-fonte de um site encantador dedicado à arte de presentear com flores as pessoas que você ama. Expresse seus sentimentos com a beleza da natureza!
 
-Sumário
+Sumário:
+
 Introdução
 Tecnologias Utilizadas
 Instalação
